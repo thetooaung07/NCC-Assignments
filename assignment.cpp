@@ -1,3 +1,6 @@
+// C++ Calculator program using pointer and reference 
+// Thet Oo Aung
+
 #include <iostream>
 
 using namespace std;
